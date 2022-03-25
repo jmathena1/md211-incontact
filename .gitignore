@@ -1,0 +1,7 @@
+venv
+*.pyc
+unknown.py
+.code-workspace
+data_prep.py
+last_month_data
+old_xlsx_files
